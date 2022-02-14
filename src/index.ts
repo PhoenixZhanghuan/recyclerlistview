@@ -35,5 +35,5 @@ export {
     DebugHandlers,
     BaseDataProvider,
     ComponentCompat,
-    MasonryLayoutProvider
+    MasonryLayoutProvider,
 };
